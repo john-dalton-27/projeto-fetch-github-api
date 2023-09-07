@@ -4,7 +4,7 @@
 <h2>Como utilizar:</h2>
 
 <ol>
-    <li>Acesse o link do projeto hospedado no github pages: </li>
+    <li>Acesse o link do projeto hospedado no github pages: https://john-dalton-27.github.io/projeto-fetch-github-api/</li>
     <li>Digite o profile-name do perfil do Github no campo e clique no botão Buscar ou pressione a tecla Enter.</li>
     <li>Clique sobre o repositório na lista para visitá-lo.</li>
 </ol>
