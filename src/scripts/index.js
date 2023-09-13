@@ -29,7 +29,6 @@ function validateEmptyInput(userName){
 }
 
 async function getUserData(userName) {
-
   const userResponse = await getUser(userName)
   
   if(userResponse.message === 'Not Found'){
